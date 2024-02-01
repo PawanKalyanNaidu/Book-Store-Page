@@ -1,0 +1,105 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+body {
+  margin: 0px;
+  font-family: "Bree Serif";
+  padding: 0px;
+}
+.book-home-store-bg-container {
+  background-color: #1b1b1b;
+  padding: 30px;
+  height: 100%;
+}
+.book-home-main-heading {
+  color: #fff;
+  font-family: "Bree Serif";
+  font-size: 38px;
+  font-weight: 500;
+}
+.bookstore-top-main-book-card {
+  background-color: #e6f6ff;
+  border-radius: 10px;
+  height: 280px;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+.bookstore-top-main-book-card-img {
+  height: 280px;
+}
+.bookstore-top-main-book-card-txt-con {
+  padding: 25px;
+}
+.bookstore-top-main-book-card-heading {
+  color: #183b56;
+  font-size: 25px;
+}
+.bookstore-top-main-book-card-desc {
+  color: #06070d;
+  font-size: 16px;
+}
+.bookstore-top-main-book-card-writername {
+  color: #183b56;
+  font-size: 15px;
+}
+.popular-book-btn {
+  font-family: "Roboto";
+  font-weight: lighter;
+}
+.book-home-recommend-book-heading {
+  color: #fff;
+  font-size: 25px;
+  font-weight: lighter;
+  margin-bottom: 15px;
+}
+.book-home-recommend-books-card {
+  padding: 1px;
+  height: 160px;
+  margin-bottom: 30px;
+}
+.book-home-recommend-book-img {
+  height: 160px;
+}
+.book-home-recommend-books-card-txt-con {
+  padding-left: 8px;
+}
+.book-home-recommend-books-card-heading {
+  color: #fff;
+  font-size: 20px;
+}
+.book-home-recommend-books-card-para {
+  color: #fff;
+  font-size: 14px;
+}
+/* detail-page */
+.book-deatil-page-bg-container {
+  background-color: #1b1b1b;
+  height: 100vh;
+  padding: 20px;
+  text-align: center;
+}
+.book-detail-page-img {
+  height: 50vh;
+}
+.book-detail-page-heading {
+  color: #fff;
+  font-size: 35px;
+  font-weight: lighter;
+  margin-top: 15px;
+}
+.book-detail-page-author {
+  color: #9aa5b1;
+  font-size: 15px;
+}
+.book-detail-page-para {
+  color: #e4e7eb;
+  font-family: "Bree Serif";
+  font-size: 12px;
+  text-align: left;
+  margin-top: 10px;
+}
+.book-detail-button-back {
+  font-family: "Roboto";
+  margin-right: 10px;
+}
+.book-detail-button-buy {
+  font-family: "Roboto";
+}
